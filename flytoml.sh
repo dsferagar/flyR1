@@ -13,7 +13,7 @@ app = "${FLY_APP_NAME}"
 kill_signal = "SIGINT"
 kill_timeout = 5
 mounts = []
-primary_region = "fra"
+primary_region = "atl"
 processes = []
 
 [[services]]
